@@ -1,4 +1,7 @@
 # main links links
-# main:
-#   - title: "Publications"
-#     url: /publications/
+# Assumes only one "About Me" page - links are anchors to sections
+main:
+  - title: "Publications"
+    url: \#publications
+  - title: "Contact"
+    url: \#contact-me

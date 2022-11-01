@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mark Zhao"
 title_separator          : "-"
 name                     : &name "Mark Zhao"
-description              : &description "Ph.D. Student at Stanford University"
+description              : &description "Ph.D. candidate at Stanford University"
 url                      : https://web.stanford.edu/~myzhao # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "markz114/personal-website"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mark Zhao"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student at Stanford. Systems and Hardware for Machine Learning and Security."
+  bio              : "Ph.D. Student at Stanford. Computer Systems & Architecture for Machine Learning and Security."
   location         : "Stanford, California"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qd1QxzcAAAAJ&hl=en"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
