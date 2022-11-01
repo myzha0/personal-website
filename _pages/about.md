@@ -17,3 +17,8 @@ I am supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fel
 
 I was recently a Visiting Researcher in the [FAIR](https://ai.facebook.com) and infrastructure teams at Meta from 2020-2022, where I worked on data management infrastructure for ML training.
 I received my B.S. in [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) from [Cornell University](https://www.cornell.edu) in 2018, where I worked with [Ed Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/) on hardware security.
+
+
+Contact Me
+======
+Feel free to email me at "myzhao (at) stanford (dot) edu"
