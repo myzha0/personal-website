@@ -42,7 +42,11 @@ Andrew Ferraiuolo, **Mark Zhao**, Andrew C. Myers, and G. Edward Suh
 *Proceedings of the IEEE Symposium on Security and Privacy, May, 2018*  
 **Distinguished Practical Paper Award**
 
+## Preprints
+\[arXiv\] [RecD: Deduplication for End-to-End Deep Learning Recommendation Model Training Infrastructure](https://arxiv.org/abs/2211.05239)  
+**Mark Zhao**, Dhruv Choudhary, Devashish Tyagi, Ajay Somani, Max Kaplan, Sung-Han Lin, Sarunya Pumma, Jongsoo Park, Aarti Basant, Niket Agarwal, Carole-Jean Wu, and Christos Kozyrakis
+
 
 Contact Me
 ======
-Please reach out to me at "myzhao (at) stanford (dot) edu"
+Please reach out to me at "myzhao@stanford.edu"
