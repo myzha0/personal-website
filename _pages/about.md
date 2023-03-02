@@ -44,7 +44,8 @@ Andrew Ferraiuolo, **Mark Zhao**, Andrew C. Myers, and G. Edward Suh
 \[S&P'18\] [FPGA-Based Remote Power Side-Channel Attacks](https://ieeexplore.ieee.org/document/8418606)  
 **Mark Zhao** and G. Edward Suh  
 *Proceedings of the IEEE Symposium on Security and Privacy, May, 2018*  
-**Distinguished Practical Paper Award**
+**Distinguished Practical Paper Award**  
+**Top Pick in Hardware and Embedded Security**
 
 Contact Me
 ======
