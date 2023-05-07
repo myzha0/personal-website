@@ -25,8 +25,8 @@ See more info at https://academicpages.github.io/
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
 ## To deploy
-1. Run `bundle exec jekyll build`
-1. Copy the contents of `_site` to server (e.g., WWW in AFS)
+1. Run `JEKYLL_ENV=production bundle exec jekyll build`
+2. Copy the contents of `_site` to server (e.g., WWW in AFS)
 
 # Changelog -- bugfixes and enhancements
 
