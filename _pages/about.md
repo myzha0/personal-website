@@ -10,18 +10,23 @@ redirect_from:
 
 I am currently a Ph.D. candidate in [Electrical Engineering](https://ee.stanford.edu) at [Stanford University](https://www.stanford.edu), advised by [Christos Kozyrakis](https://web.stanford.edu/~kozyraki/).
 
-My research centers around co-designing computer systems and hardware to improve the scalability, performance, and security of datacenter-scale applications such as machine learning.
-I am currently working on designing and optimizing data storage and ingestion systems that manage data in machine learning pipelines.
+My research centers around designing systems to improve the scalability, performance, and security of datacenter-scale applications such as machine learning.
+I am currently building systems that enable large-scale machine learning training and serving pipelines.
 My prior research has explored accelerating video analytics pipelines and the security of cloud FPGAs.
-My work is a [Top Pick in Hardware and Embedded Security](https://www.ieee-hsttc.org/top-picks-2022/) and won the [IEEE S&P Distinguished Practical Paper Award](https://www.ieee-security.org/TC/SP2018/awards.html).
-I am fortunate enough to be supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf/details) and a [Meta Ph.D. Fellowship](https://research.facebook.com/fellowship/) in AI System HW/SW Co-Design.
+My research is a [Top Pick in Hardware and Embedded Security](https://www.ieee-hsttc.org/top-picks-2022/) and won the [IEEE S&P Distinguished Practical Paper Award](https://www.ieee-security.org/TC/SP2018/awards.html).
+I am grateful to have been selected as an [MLCommons Rising Star](https://mlcommons.org/2023/07/introducing-the-2023-mlcommons-rising-stars/).
+My work is generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf/details) and a [Meta Ph.D. Fellowship](https://research.facebook.com/fellowship/) in AI System HW/SW Co-Design.
 
-I was recently a Visiting Researcher in the [FAIR](https://ai.facebook.com) and infrastructure teams at Meta from 2020-2022, where I worked on data infrastructures for ML training.
+I was recently a Visiting Researcher in the [FAIR](https://ai.facebook.com) and infrastructure teams at Meta from 2020-2022, where I designed and optimized data storage and ingestion infrastructure for Meta's machine learning training pipelines.
 I received my B.S. in [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) from [Cornell University](https://www.cornell.edu) in 2018, where I worked with [Ed Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/) on hardware security.
 
 Publications
 ======
-\[ATC'23\] Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training  
+\[arXiv\] [cedar: Composable and Optimized Machine Learning Input Data Pipelines](https://arxiv.org/abs/2401.08895)  
+**Mark Zhao**, Emanuel Adamiak, and Christos Kozyrakis  
+*Preprint, Under Submission*
+
+\[ATC'23\] [Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training](https://www.usenix.org/conference/atc23/presentation/zhao)  
 **Mark Zhao**, Satadru Pan, Niket Agarwal, Zhaoduo Wen, David Xu, Anand Natarajan, Pavan Kumar, Shiva Shankar P, Ritesh Tijoriwala, Karan Asher, Hao Wu, Aarti Basant, Daniel Ford, Delia David, Nezih Yigitbasi, Pratap Singh, Carole-Jean Wu, and Christos Kozyrakis  
 *Proceedings of the 2023 USENIX Annual Technical Conference, July, 2023*
 
@@ -29,7 +34,7 @@ Publications
 **Mark Zhao**, Dhruv Choudhary, Devashish Tyagi, Ajay Somani, Max Kaplan, Sung-Han Lin, Sarunya Pumma, Jongsoo Park, Aarti Basant, Niket Agarwal, Carole-Jean Wu, and Christos Kozyrakis  
 *Proceedings of the 6th Conference on Machine Learning and Systems, June, 2023*
 
-\[ISCA'22\] [Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model Training](https://dl.acm.org/doi/10.1145/3470496.3533044)    
+\[ISCA'22\] [Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model Training](https://dl.acm.org/doi/10.1145/3470496.3533044)  
 **Mark Zhao**, Niket Agarwal, Aarti Basant, Buğra Gedik, Satadru Pan, Mustafa Ozdal, Rakesh Komuravelli, Jerry Pan, Tianshu Bao, Haowei Lu, Sundaram Narayanan, Jack Langman, Kevin Wilfong, Harsha Rastogi, Carole-Jean Wu, Christos Kozyrakis, and Parik Pol  
 *Proceedings of the 49th International Symposium on Computer Architecture, June, 2022*
 
@@ -54,4 +59,4 @@ Andrew Ferraiuolo, **Mark Zhao**, Andrew C. Myers, and G. Edward Suh
 
 Contact Me
 ======
-Please reach out to me at "myzhao@stanford.edu"
+Please reach out to me at "myzhao@stanford.edu".
