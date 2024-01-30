@@ -13,7 +13,7 @@ I am currently a Ph.D. candidate in [Electrical Engineering](https://ee.stanford
 My research centers around designing systems to improve the scalability, performance, and security of datacenter-scale applications such as machine learning.
 I am currently building systems that enable large-scale machine learning training and serving pipelines.
 My prior research has explored accelerating video analytics pipelines and the security of cloud FPGAs.
-My research is a [Top Pick in Hardware and Embedded Security](https://www.ieee-hsttc.org/top-picks-2022/) and won the [IEEE S&P Distinguished Practical Paper Award](https://www.ieee-security.org/TC/SP2018/awards.html).
+My research won the [IEEE S&P Distinguished Practical Paper Award](https://www.ieee-security.org/TC/SP2018/awards.html) and is a [Top Pick in Hardware and Embedded Security](https://www.ieee-hsttc.org/top-picks-2022/).
 I am grateful to have been selected as an [MLCommons Rising Star](https://mlcommons.org/2023/07/introducing-the-2023-mlcommons-rising-stars/).
 My work is generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf/details) and a [Meta Ph.D. Fellowship](https://research.facebook.com/fellowship/) in AI System HW/SW Co-Design.
 
