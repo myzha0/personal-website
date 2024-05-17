@@ -10,9 +10,11 @@ redirect_from:
 
 I am currently a Ph.D. candidate in [Electrical Engineering](https://ee.stanford.edu) at [Stanford University](https://www.stanford.edu), advised by [Christos Kozyrakis](https://web.stanford.edu/~kozyraki/).
 
-My research centers around designing systems to improve the scalability, performance, and security of datacenter-scale applications such as machine learning.
+My research centers around building performant and scalable **systems for machine learning** to train, serve, and enable applications with large machine learning models.
+I am broadly interested in applying tools across distributed systems, networking, storage, databases, security, and computer architecture.
+<!---My research centers around designing systems to improve the scalability, performance, and security of datacenter-scale applications such as machine learning.
 I am currently building systems that enable large-scale machine learning training and serving pipelines.
-My prior research has explored accelerating video analytics pipelines and the security of cloud FPGAs.
+My prior research has explored accelerating video analytics pipelines and the security of cloud FPGAs.-->
 My research won the [IEEE S&P Distinguished Practical Paper Award](https://www.ieee-security.org/TC/SP2018/awards.html) and is a [Top Pick in Hardware and Embedded Security](https://www.ieee-hsttc.org/top-picks-2022/).
 I am grateful to have been selected as an [MLCommons Rising Star](https://mlcommons.org/2023/07/introducing-the-2023-mlcommons-rising-stars/).
 My work is generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf/details) and a [Meta Ph.D. Fellowship](https://research.facebook.com/fellowship/) in AI System HW/SW Co-Design.
@@ -22,9 +24,13 @@ I received my B.S. in [Electrical and Computer Engineering](https://www.ece.corn
 
 Publications
 ======
-\[arXiv\] [cedar: Composable and Optimized Machine Learning Input Data Pipelines](https://arxiv.org/abs/2401.08895)  
+\[arXiv\] [cedar: Optimized and Unified Machine Learning Input Data Pipelines](https://arxiv.org/abs/2401.08895)  
 **Mark Zhao**, Emanuel Adamiak, and Christos Kozyrakis  
 *Preprint, Under Submission*
+
+\[OSDI'24\] High-throughput and Flexible Host Networking for AI Accelerators  
+Athinagoras Skiadopoulos, Zhiqiang Xie, **Mark Zhao**, Qizhe Cai, Saksham Agarwal, Jacob Adelmann, David Ahern, Carlo Contavalli, Michael Goldflam, Vitaly Mayatskikh, Raghu Raja, Daniel Walton, Rachit Agarwal, Shrijeet Mukherjee, and Christos Kozyrakis  
+*Proceedings of the 2024 USENIX Symposium on Operating Systems Design and Implementation, July, 2024*
 
 \[ATC'23\] [Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training](https://www.usenix.org/conference/atc23/presentation/zhao)  
 **Mark Zhao**, Satadru Pan, Niket Agarwal, Zhaoduo Wen, David Xu, Anand Natarajan, Pavan Kumar, Shiva Shankar P, Ritesh Tijoriwala, Karan Asher, Hao Wu, Aarti Basant, Daniel Ford, Delia David, Nezih Yigitbasi, Pratap Singh, Carole-Jean Wu, and Christos Kozyrakis  
