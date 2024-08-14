@@ -28,7 +28,11 @@ Publications
 **Mark Zhao**, Emanuel Adamiak, and Christos Kozyrakis  
 *Preprint, Under Submission*
 
-\[OSDI'24\] High-throughput and Flexible Host Networking for AI Accelerators  
+\[SOSP'24\] [SlipStream: Adapting Pipelines for Distributed Training of Large DNNs Amid Failures](https://arxiv.org/pdf/2405.14009)  
+Swapnil Gandhi, **Mark Zhao**, Athinagoras Skiadopoulos, and Christos Kozyrakis  
+*To Appear in the 30th Symposium on Operating Systems Principles*
+
+\[OSDI'24\] [High-throughput and Flexible Host Networking for Accelerated Computing](https://www.usenix.org/conference/osdi24/presentation/skiadopoulos)  
 Athinagoras Skiadopoulos, Zhiqiang Xie, **Mark Zhao**, Qizhe Cai, Saksham Agarwal, Jacob Adelmann, David Ahern, Carlo Contavalli, Michael Goldflam, Vitaly Mayatskikh, Raghu Raja, Daniel Walton, Rachit Agarwal, Shrijeet Mukherjee, and Christos Kozyrakis  
 *Proceedings of the 2024 USENIX Symposium on Operating Systems Design and Implementation, July, 2024*
 
