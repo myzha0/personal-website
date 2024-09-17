@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=qd1QxzcAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-0706-5208"
+  orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -156,6 +156,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - google45fa1e2233798122.html
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

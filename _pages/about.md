@@ -10,22 +10,24 @@ redirect_from:
 
 I am currently a Ph.D. candidate in [Electrical Engineering](https://ee.stanford.edu) at [Stanford University](https://www.stanford.edu), advised by [Christos Kozyrakis](https://web.stanford.edu/~kozyraki/).
 
-My research centers around building performant and scalable **systems for machine learning** to train, serve, and enable applications with large machine learning models.
-I am broadly interested in applying tools across distributed systems, networking, storage, databases, security, and computer architecture.
+I build performant and scalable **systems for machine learning** to train, serve, and enable applications with large-scale machine learning models.
+My current research focuses on co-designing the **interacting components that compose modern ML systems**, including the ML training data pipeline and compound systems for ML inference.
+I am broadly interested in applying tools across cloud computing systems, machine learning, and computer architecture.
+
 My research won the [IEEE S&P Distinguished Practical Paper Award](https://www.ieee-security.org/TC/SP2018/awards.html) and is a [Top Pick in Hardware and Embedded Security](https://www.ieee-hsttc.org/top-picks-2022/).
 I am grateful to have been selected as an [MLCommons Rising Star](https://mlcommons.org/2023/07/introducing-the-2023-mlcommons-rising-stars/).
-My work is generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf/details) and a [Meta Ph.D. Fellowship](https://research.facebook.com/fellowship/) in AI System HW/SW Co-Design.
+My work is generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf/details) and a [Meta Ph.D. Fellowship](https://research.facebook.com/fellows/) in AI System HW/SW Co-Design.
 
-I was recently a Visiting Researcher in the [FAIR](https://ai.facebook.com) and infrastructure teams at Meta from 2020-2022, where I designed and optimized data storage and ingestion infrastructure for Meta's machine learning training pipelines.
+I was recently a Visiting Researcher in the [FAIR](https://ai.meta.com/research/) and infrastructure teams at Meta from 2020-2022, where I designed and optimized data storage and ingestion infrastructure for Meta's machine learning training pipelines.
 I received my B.S. in [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) from [Cornell University](https://www.cornell.edu) in 2018, where I worked with [Ed Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/) on hardware security.
 
 Publications
 ======
-\[arXiv\] [cedar: Optimized and Unified Machine Learning Input Data Pipelines](https://arxiv.org/abs/2401.08895)  
+\[VLDB'25 (*Accepted with Shepherding*)\] [cedar: Optimized and Unified Machine Learning Input Data Pipelines](https://arxiv.org/abs/2401.08895)  
 **Mark Zhao**, Emanuel Adamiak, and Christos Kozyrakis  
-*Preprint, Under Submission*
+*Accepted with Shepherding to the Proceedings of the VLDB Endowment, Volume 18*
 
-\[SOSP'24\] [SlipStream: Adapting Pipelines for Distributed Training of Large DNNs Amid Failures](https://arxiv.org/pdf/2405.14009)  
+\[SOSP'24\] [ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation](https://arxiv.org/pdf/2405.14009)  
 Swapnil Gandhi, **Mark Zhao**, Athinagoras Skiadopoulos, and Christos Kozyrakis  
 *To Appear in the 30th Symposium on Operating Systems Principles*
 

@@ -9,3 +9,5 @@ main:
     url: \#publications
   - title: "Contact"
     url: \#contact-me
+  - title: "CV"
+    url: /files/cv.pdf
