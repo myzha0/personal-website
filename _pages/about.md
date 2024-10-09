@@ -23,13 +23,13 @@ I received my B.S. in [Electrical and Computer Engineering](https://www.ece.corn
 
 Publications
 ======
-\[VLDB'25 (*Accepted with Shepherding*)\] [cedar: Optimized and Unified Machine Learning Input Data Pipelines](https://arxiv.org/abs/2401.08895)  
+\[VLDB'25\] [cedar: Optimized and Unified Machine Learning Input Data Pipelines](https://arxiv.org/abs/2401.08895)  
 **Mark Zhao**, Emanuel Adamiak, and Christos Kozyrakis  
-*Accepted with Shepherding to the Proceedings of the VLDB Endowment, Volume 18*
+*Proceedings of the VLDB Endowment, Volume 18*
 
 \[SOSP'24\] [ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation](https://arxiv.org/pdf/2405.14009)  
 Swapnil Gandhi, **Mark Zhao**, Athinagoras Skiadopoulos, and Christos Kozyrakis  
-*To Appear in the 30th Symposium on Operating Systems Principles*
+*Proceedings of the 30th ACM Symposium on Operating Systems Principles*
 
 \[OSDI'24\] [High-throughput and Flexible Host Networking for Accelerated Computing](https://www.usenix.org/conference/osdi24/presentation/skiadopoulos)  
 Athinagoras Skiadopoulos, Zhiqiang Xie, **Mark Zhao**, Qizhe Cai, Saksham Agarwal, Jacob Adelmann, David Ahern, Carlo Contavalli, Michael Goldflam, Vitaly Mayatskikh, Raghu Raja, Daniel Walton, Rachit Agarwal, Shrijeet Mukherjee, and Christos Kozyrakis  
@@ -45,7 +45,7 @@ Athinagoras Skiadopoulos, Zhiqiang Xie, **Mark Zhao**, Qizhe Cai, Saksham Agarwa
 
 \[ISCA'22\] [Understanding Data Storage and Ingestion for Large-Scale Deep Recommendation Model Training](https://dl.acm.org/doi/10.1145/3470496.3533044)  
 **Mark Zhao**, Niket Agarwal, Aarti Basant, Buğra Gedik, Satadru Pan, Mustafa Ozdal, Rakesh Komuravelli, Jerry Pan, Tianshu Bao, Haowei Lu, Sundaram Narayanan, Jack Langman, Kevin Wilfong, Harsha Rastogi, Carole-Jean Wu, Christos Kozyrakis, and Parik Pol  
-*Proceedings of the 49th International Symposium on Computer Architecture, June, 2022*
+*Proceedings of the 49th IEEE/ACM International Symposium on Computer Architecture, June, 2022*
 
 \[ASPLOS'22\] [ShEF: Shielded Enclaves for Cloud FPGAs](https://dl.acm.org/doi/10.1145/3503222.3507733)  
 **Mark Zhao**, Mingyu Gao, and Christos Kozyrakis  
