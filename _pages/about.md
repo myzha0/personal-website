@@ -29,7 +29,7 @@ Publications
 
 \[SOSP'24\] [ReCycle: Resilient Training of Large DNNs using Pipeline Adaptation](https://arxiv.org/pdf/2405.14009)  
 Swapnil Gandhi, **Mark Zhao**, Athinagoras Skiadopoulos, and Christos Kozyrakis  
-*Proceedings of the 30th ACM Symposium on Operating Systems Principles*
+*Proceedings of the 30th ACM Symposium on Operating Systems Principles, November, 2024*
 
 \[OSDI'24\] [High-throughput and Flexible Host Networking for Accelerated Computing](https://www.usenix.org/conference/osdi24/presentation/skiadopoulos)  
 Athinagoras Skiadopoulos, Zhiqiang Xie, **Mark Zhao**, Qizhe Cai, Saksham Agarwal, Jacob Adelmann, David Ahern, Carlo Contavalli, Michael Goldflam, Vitaly Mayatskikh, Raghu Raja, Daniel Walton, Rachit Agarwal, Shrijeet Mukherjee, and Christos Kozyrakis  
