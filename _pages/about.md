@@ -10,9 +10,9 @@ redirect_from:
 
 I am currently a Ph.D. candidate in [Electrical Engineering](https://ee.stanford.edu) at [Stanford University](https://www.stanford.edu), advised by [Christos Kozyrakis](https://web.stanford.edu/~kozyraki/).
 
-I build performant and scalable **systems for machine learning** to train, serve, and enable applications with large-scale machine learning models.
-My current research focuses on co-designing the **interacting components that compose modern ML systems**, including the ML training data pipeline and compound systems for ML inference.
-I am broadly interested in applying tools across cloud computing systems, machine learning, and computer architecture.
+My research focuses on building **computer systems for machine learning pipelines** to train and deploy large-scale ML models.
+I take a holistic approach by co-designing the multiple interacting systems that compose modern ML pipelines, including training data systems, secure and distributed accelerators, and application-centric inference serving frameworks.
+To improve the efficiency, security, and scalability of these diverse pipelines, I leverage tools across the computing stack, including computer systems, computer architecture, security, databases, and machine learning.
 
 My research won the [IEEE S&P Distinguished Practical Paper Award](https://www.ieee-security.org/TC/SP2018/awards.html) and is a [Top Pick in Hardware and Embedded Security](https://www.ieee-hsttc.org/top-picks-2022/).
 I am grateful to have been selected as an [MLCommons Rising Star](https://mlcommons.org/2023/07/introducing-the-2023-mlcommons-rising-stars/).
