@@ -66,6 +66,11 @@ Andrew Ferraiuolo, **Mark Zhao**, Andrew C. Myers, and G. Edward Suh
 **Distinguished Practical Paper Award**  
 **Top Pick in Hardware and Embedded Security**
 
+Preprints
+======
+\[arXiv\] [Adaptive Semantic Prompt Caching with VectorQ](https://arxiv.org/abs/2502.03771)  
+Luis Gaspar Schroeder, Shu Liu, Alejandro Cuadron, **Mark Zhao**, Stephan Krusche, Alfons Kemper, Matei Zaharia, Joseph E Gonzalez
+
 Contact Me
 ======
 Please reach out to me at "myzhao@stanford.edu".
