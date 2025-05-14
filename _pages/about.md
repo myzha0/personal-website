@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in [Electrical Engineering](https://ee.stanford.edu) at [Stanford University](https://www.stanford.edu), advised by [Christos Kozyrakis](https://web.stanford.edu/~kozyraki/).
+I am an incoming Assistant Professor (starting August 2025) of [Computer Science](https://www.colorado.edu/cs/) at the [University of Colorado Boulder](https://www.colorado.edu).
 
 My research focuses on building **computer systems for machine learning pipelines** to train and deploy large-scale ML models.
 I take a holistic approach by co-designing the multiple interacting systems that compose modern ML pipelines, including training data systems, secure and distributed accelerators, and application-centric inference serving frameworks.
 To improve the efficiency, security, and scalability of these diverse pipelines, I leverage tools across the computing stack, including computer systems, computer architecture, security, databases, and machine learning.
 
-My research won the [IEEE S&P Distinguished Practical Paper Award](https://www.ieee-security.org/TC/SP2018/awards.html) and is a [Top Pick in Hardware and Embedded Security](https://www.ieee-hsttc.org/top-picks-2022/).
-I am grateful to have been selected as an [MLCommons Rising Star](https://mlcommons.org/2023/07/introducing-the-2023-mlcommons-rising-stars/).
-My work is generously supported by a [Stanford Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sgf/details) and a [Meta Ph.D. Fellowship](https://research.facebook.com/fellows/) in AI System HW/SW Co-Design.
+I received my Ph.D. from [Stanford University](https://www.stanford.edu), where I worked with [Christos Kozyrakis](https://web.stanford.edu/~kozyraki/).
+I was a Visiting Researcher in the [FAIR](https://ai.meta.com/research/) and infrastructure teams at Meta from 2020-2022, where I designed and optimized data storage and ingestion infrastructure for Meta's machine learning training pipelines.
+I received my B.S. in [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) from [Cornell University](https://www.cornell.edu), where I worked with [Ed Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/) on hardware security.
 
-I was recently a Visiting Researcher in the [FAIR](https://ai.meta.com/research/) and infrastructure teams at Meta from 2020-2022, where I designed and optimized data storage and ingestion infrastructure for Meta's machine learning training pipelines.
-I received my B.S. in [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) from [Cornell University](https://www.cornell.edu) in 2018, where I worked with [Ed Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/) on hardware security.
+<span style="color: red;">**Prospective Students:**</span> I have multiple PhD openings in my group.
+I am also looking for motivated graduate students and undergraduate researchers at CU Boulder.
+If you are interested in working with me, please send me an email with your CV.
 
 Publications
 ======
@@ -73,4 +74,4 @@ Luis Gaspar Schroeder, Shu Liu, Alejandro Cuadron, **Mark Zhao**, Stephan Krusch
 
 Contact Me
 ======
-Please reach out to me at "myzhao@stanford.edu".
+Email: **[myzhao@stanford.edu](mailto:myzhao@stanford.edu)**

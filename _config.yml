@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Mark Zhao"
 title_separator          : "-"
 name                     : &name "Mark Zhao"
-description              : &description "Ph.D. candidate at Stanford University"
+description              : &description "Assistant Professor of Computer Science at the University of Colorado Boulder"
 url                      : https://web.stanford.edu/~myzhao # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "markz114/personal-website"
@@ -26,11 +26,14 @@ author:
   name             : "Mark Zhao"
   avatar           : "profile.png"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student at Stanford University"
-  location         : "Stanford, California"
-  employer         :
+  bio              : |
+    Assistant Professor <br>
+    Department of Computer Science <br>
+    University of Colorado Boulder
+  location         : # "Boulder, Colorado"
+  employer         : # "University of Colorado Boulder"
   uri              : # URL
-  email            : 
+  email            : "myzhao@stanford.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
