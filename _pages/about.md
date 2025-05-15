@@ -10,9 +10,9 @@ redirect_from:
 
 I am an incoming Assistant Professor (starting August 2025) of [Computer Science](https://www.colorado.edu/cs/) at the [University of Colorado Boulder](https://www.colorado.edu).
 
-My research focuses on building **computer systems for machine learning pipelines** to train and deploy large-scale ML models.
-I take a holistic approach by co-designing the multiple interacting systems that compose modern ML pipelines, including training data systems, secure and distributed accelerators, and application-centric inference serving frameworks.
-To improve the efficiency, security, and scalability of these diverse pipelines, I leverage tools across the computing stack, including computer systems, computer architecture, security, databases, and machine learning.
+I build computer systems for machine learning pipelines, enabling the training and deployment of large-scale ML models.
+My research focuses on co-designing the interacting systems that underpin modern ML infrastructures to improve their scalability, efficiency, and security.
+My interests span the computing stack -- including systems, databases, architecture, and security -- and their intersection with machine learning.
 
 I received my Ph.D. from [Stanford University](https://www.stanford.edu), where I worked with [Christos Kozyrakis](https://web.stanford.edu/~kozyraki/).
 I was a Visiting Researcher in the [FAIR](https://ai.meta.com/research/) and infrastructure teams at Meta from 2020-2022, where I designed and optimized data storage and ingestion infrastructure for Meta's machine learning training pipelines.
