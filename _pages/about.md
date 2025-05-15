@@ -14,9 +14,9 @@ I build computer systems for machine learning pipelines that train and deploy la
 My research focuses on co-designing the many interacting systems underlying modern ML pipelines to improve their scalability, efficiency, and security.
 My interests span the computing stack -- including systems, databases, architecture, and security -- and their intersection with machine learning.
 
-I received my Ph.D. from [Stanford University](https://www.stanford.edu), where I worked with [Christos Kozyrakis](https://web.stanford.edu/~kozyraki/).
+I completed my Ph.D. in [Electrical Engineering](https://ee.stanford.edu) at [Stanford University](https://www.stanford.edu), advised by [Christos Kozyrakis](https://web.stanford.edu/~kozyraki/).
 I was a Visiting Researcher in the [FAIR](https://ai.meta.com/research/) and infrastructure teams at Meta from 2020-2022, where I designed and optimized data storage and ingestion infrastructure for Meta's machine learning training pipelines.
-I received my B.S. in [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) from [Cornell University](https://www.cornell.edu), where I worked with [Ed Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/) on hardware security.
+I received my B.S. in [Electrical and Computer Engineering](https://www.ece.cornell.edu/ece) from [Cornell University](https://www.cornell.edu), where I worked with [Ed Suh](https://tsg.ece.cornell.edu/people/g-edward-suh/).
 
 <span style="color: red;">**Prospective Students:**</span> I have multiple PhD openings in my group.
 I am also looking for motivated graduate students and undergraduate researchers at CU Boulder.
