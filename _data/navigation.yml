@@ -9,5 +9,5 @@ main:
     url: \#publications
   - title: "Contact"
     url: \#contact-me
-  - title: "CV"
-    url: /files/mark_zhao_cv.pdf
+#  - title: "CV"
+#    url: /files/mark_zhao_cv.pdf
